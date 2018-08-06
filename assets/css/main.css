@@ -5,7 +5,7 @@
 .sidenav {
   background-image: url("../images/lightning.gif");
   color: #EFE7DA;
-  height: 100%;
+  height: fit-content;
   border-top-right-radius: 8px;
   border-bottom-right-radius: 8px;
   border-bottom-left-radius: 8px;
